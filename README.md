@@ -53,11 +53,6 @@ Las contribuciones son siempre bienvenidas! Siéntete libre de abrir un pull req
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## Agradecimientos
-
-- [SBYtech](https://sbytech.cl/)
-
-
 
 
 
